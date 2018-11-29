@@ -1,0 +1,63 @@
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight2\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.1\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.2\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.3\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.4\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\obj\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.5\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\bin\Debug\KnightsFight.exe.config
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\bin\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\bin\Debug\KnightsFight.pdb
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\obj\Debug\KnightsFight.csprojAssemblyReference.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\obj\Debug\KnightsFight.csproj.CoreCompileInputs.cache
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\obj\Debug\KnightsFight.exe
+C:\Users\Freedlee\source\repos\KnightsFight v0.5.6\KnightsFight\obj\Debug\KnightsFight.pdb
